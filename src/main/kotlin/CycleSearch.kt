@@ -2,7 +2,7 @@ import java.io.BufferedReader
 import java.io.InputStreamReader
 
 fun main(args: Array<String>) {
-    val (n, matrix) = readInput()
+    val (n, matrix) = readGraphMatrix()
 
     val checked = mutableSetOf<Int>()
 
@@ -52,7 +52,7 @@ fun findCyclesDfs(
     return mutableListOf()
 }
 
-fun readInput(): Pair<Int, Array<IntArray>> {
+private fun readGraphMatrix(): Pair<Int, Array<IntArray>> {
     val reader = BufferedReader(InputStreamReader(System.`in`))
 
     val n = reader.readLine().toInt()
