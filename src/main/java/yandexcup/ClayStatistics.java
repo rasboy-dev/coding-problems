@@ -85,7 +85,7 @@ public class ClayStatistics {
 //
 //public class ClayStatistics {
 //
-//    public static void main(String[] args) throws IOException {
+//    public static void codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main(String[] args) throws IOException {
 //        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 //        BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
 //

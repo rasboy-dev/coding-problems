@@ -1,7 +1,7 @@
 import sys
 
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     graph = {}
     n = int(input())
     for con in sys.stdin.readlines():
@@ -39,4 +39,4 @@ def dfs(i, prev, graph, visited) -> bool:
 
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

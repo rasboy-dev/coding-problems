@@ -5,7 +5,7 @@ import java.util.*;
 
 public class CheapestPath {
     public static void main(String[] args) throws IOException {
-        BufferedReader reader = new BufferedReader(new FileReader("src/main/resources/cheapest_path"));
+        BufferedReader reader = new BufferedReader(new FileReader("src/codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main/resources/cheapest_path"));
         int n = Integer.parseInt(reader.readLine());
         Graph graph = new Graph();
         while (true) {

@@ -1,6 +1,6 @@
 import sys
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     string = input()
 
     counters = {}
@@ -18,4 +18,4 @@ def main():
     print(maxPair)
 
 if __name__ == '__main__':
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

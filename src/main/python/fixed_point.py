@@ -1,4 +1,4 @@
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     arr = [-1, 0, 1]
 
     lo = 0
@@ -18,4 +18,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

@@ -3,7 +3,7 @@ import os
 import sys
 
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     optim_input = io.BytesIO(os.read(0, os.fstat(0).st_size)).readline
     str_num = optim_input().decode().strip()
     if str_num == '0':
@@ -110,7 +110,7 @@ def increment(strNum: str, times: int = 1) -> str:
     return ''.join(res)
 
 
-def test():
+def codeforces.round995.codeforces.round995.test():
     for max_length in range(1, 4):
         for ln in range(pow(10, max_length)):
             for p in range(len(str(ln)), max_length + 1):
@@ -136,5 +136,5 @@ def brute_force(str_num: str):
 
 
 if __name__ == '__main__':
-    test()
-    main()
+    codeforces.round995.codeforces.round995.test()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

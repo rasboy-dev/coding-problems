@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 public class FindFileDuplicates {
     private static final int SAMPLE_SIZE = 4000;
     public static void main(String[] args) throws IOException {
-        String rootDirName = "src/main/resources/find_file_duplicates";
+        String rootDirName = "src/codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main/resources/find_file_duplicates";
         File rootDir = new File(rootDirName);
         for (File file : Objects.requireNonNull(rootDir.listFiles())) {
             System.out.println(file);

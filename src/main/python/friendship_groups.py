@@ -1,4 +1,4 @@
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     n = int(input())
     friendship_list = {}
     for i in range(0, n):
@@ -28,4 +28,4 @@ def dfs(i, friendship_list, friend_group):
 
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

@@ -1,4 +1,4 @@
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     expression_str = input()
 
     print(evaluate(expression_str))
@@ -36,4 +36,4 @@ def evaluate(expression_str: str):
 
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

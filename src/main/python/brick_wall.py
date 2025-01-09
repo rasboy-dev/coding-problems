@@ -1,7 +1,7 @@
 import sys
 
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     n = int(input())
     brick_rows = []
     for row in sys.stdin.readlines():
@@ -23,4 +23,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

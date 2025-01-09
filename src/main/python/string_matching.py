@@ -15,7 +15,7 @@ def build_table(pattern):
     return matches
 
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     string = 'AAAA'
     print(build_table(string), build_table(string) == [0, 1, 2, 3])
     string = 'ABCDE'
@@ -29,4 +29,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

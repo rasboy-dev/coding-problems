@@ -21,10 +21,10 @@ def validate2(arr):
     return False if bytes_counter else True
 
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     arr = [int(i) for i in input().split()]
     print(validate2(arr))
 
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

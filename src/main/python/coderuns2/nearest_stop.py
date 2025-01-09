@@ -1,6 +1,6 @@
 import sys
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     sys.stdin.readline().split()
     stops = [int(x) for x in sys.stdin.readline().split()]
     requests = [int(x) for x in sys.stdin.readline().split()]
@@ -31,4 +31,4 @@ def main():
             print(right + 1)
 
 if __name__ == '__main__':
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

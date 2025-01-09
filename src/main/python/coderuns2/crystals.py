@@ -1,7 +1,7 @@
 import sys
 
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     str1 = input()
     str2 = input()
     str3 = input()
@@ -35,4 +35,4 @@ def main():
     print(word)
 
 if __name__ == '__main__':
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

@@ -1,4 +1,4 @@
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     string = 'jiujitsu'
     start = end = 0
     uniq_chars = set(string)
@@ -23,4 +23,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

@@ -1,7 +1,7 @@
 import sys
 
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     n = int(input()) + 1
     connections_str = sys.stdin.readlines()
     connections = {}
@@ -30,4 +30,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

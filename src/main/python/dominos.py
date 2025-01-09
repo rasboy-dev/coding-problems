@@ -1,4 +1,4 @@
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
     initial_conditions = input()
 
     has_right_pressure = False
@@ -34,4 +34,4 @@ def process(number_of_dominos, has_right_pressure, has_left_pressure):
 
 
 if __name__ == '__main__':
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()

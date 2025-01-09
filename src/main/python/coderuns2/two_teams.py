@@ -1,6 +1,6 @@
 import sys
 
-def main():
+def codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main():
 
     lines = sys.stdin.readlines()
     a, b, n = [int(x) for x in lines]
@@ -20,4 +20,4 @@ def main():
     return
 
 if __name__ == "__main__":
-    main()
+    codeforces.round995.codeforces.round995.codeforces.round995.codeforces.round995.main()
