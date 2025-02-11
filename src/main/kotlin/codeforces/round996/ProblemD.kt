@@ -1,4 +1,3 @@
-package codeforces.round995
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
@@ -27,7 +26,7 @@ class ProblemD {
             val minS = sum - y
             val maxS = sum - x
             var c = 0L
-            for (i in 1 until n) {
+            for (i in 1..<n) {
                 val min = minS - aSorted[i]
                 val max = maxS - aSorted[i]
 
@@ -37,6 +36,20 @@ class ProblemD {
                 c += if (maxI >= minI) maxI - minI + 1 else 0
             }
             return c
+        }
+
+        private fun bf(n: Int, x: Long, y: Long, arr: List<Long>): Int {
+            val s = arr.sum()
+            val pairs = mutableSetOf<Pair<Int, Int>>()
+            for (i in arr.indices) {
+                for (j in i+1..<n) {
+                    val newSum = s - arr[i] - arr[j]
+                    if (newSum in x..y) {
+                        pairs.add(Pair(i, j))
+                    }
+                }
+            }
+            return pairs.count()
         }
     }
 }
